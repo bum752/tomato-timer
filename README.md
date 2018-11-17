@@ -1,6 +1,6 @@
 # tomato-timer
 
-![tomato-timer](https://user-images.githubusercontent.com/20104232/48658252-1abc5b80-ea82-11e8-9d89-13f5b0192d9b.gif)
+![tomato-timer](https://user-images.githubusercontent.com/20104232/48659476-1ea5a900-ea95-11e8-80bb-67f6a1dfeaaa.gif)
 
 - expo
 - react
